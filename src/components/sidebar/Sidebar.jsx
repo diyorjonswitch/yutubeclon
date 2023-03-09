@@ -9,7 +9,6 @@ const Sidebar = () => {
             <Linksidebar linkIcon="local_fire_department" text="Trending" link="trending" />
 
             <Linksidebar linkIcon="subscriptions" text="Subcriptions" link="Subcriptions" />
-
             <hr />
             <Linksidebar linkIcon="library_add_check" text="Library" link="Library" />
 
